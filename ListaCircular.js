@@ -1,4 +1,4 @@
-lass ListaCircular {
+class ListaCircular {
     constructor(nombre, hora, minuto, segundo) {
         this.nombre = nombre;
         this.hora = hora;
